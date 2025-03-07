@@ -1,0 +1,18 @@
+"installscript"
+{
+	"Registry"
+	{
+		"HKEY_LOCAL_MACHINE\\SOFTWARE\\Kagura Games\\Summer Memories DLC"
+		{
+			"string"
+			{
+				"Install_Path"		"%INSTALLDIR%"
+				"Exe_Path"		"%INSTALLDIR%\\Game.exe"
+			}
+		}
+	}
+}
+"kvsignatures"
+{
+	"installscript"		"4f61f1a9c2d888e61ece074a2e593b3a0bae4d6d022fa428d050f52f3c5cd37c163573b34fa8637000b6100c3fd2dc4f6463b9754aaa7baf20c80ff0173018a0f5d0dc41bcd05806d798eaacbee1e1c2cab7f3e31a743ee696d54f4be72355c065292e45616500421754da3c4991c0bf7e952a484e0a6bc6fe86fa35b87dd8a0"
+}
